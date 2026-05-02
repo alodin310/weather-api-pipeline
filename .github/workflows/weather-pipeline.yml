@@ -1,0 +1,56 @@
+name: Weather Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weather pipeline
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: python weather.py
+
+      - name: Verify output
+        run: |
+          if [ ! -f weather_data.csv ]; then
+            echo "ERROR: weather_data.csv not found"
+            exit 1
+          fi
+          lines=$(wc -l < weather_data.csv)
+          if [ "$lines" -lt 2 ]; then
+            echo "ERROR: weather_data.csv has $lines line(s), expected header + data"
+            exit 1
+          fi
+          echo "Output verified: $lines lines (including header)"
+
+      - name: Commit and push updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weather_data.csv
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update weather data $(date -u +%Y-%m-%d)"
+            git push
+          fi
