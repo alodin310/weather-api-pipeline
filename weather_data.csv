@@ -1,142 +1,142 @@
 zip_code,city,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,2026-07-16,91.9,64.0,Sunny
-90045,Los Angeles,2026-07-17,77.3,70.1,Sunny
-90045,Los Angeles,2026-07-18,77.5,70.0,Sunny
-10001,New York,2026-07-16,99.7,70.7,Sunny
-10001,New York,2026-07-17,90.4,75.1,Sunny
-10001,New York,2026-07-18,81.2,71.6,Patchy rain nearby
-60601,Chicago,2026-07-16,84.4,76.5,Sunny
-60601,Chicago,2026-07-17,85.2,74.6,Sunny
-60601,Chicago,2026-07-18,91.5,72.3,Sunny
-98101,Seattle,2026-07-16,77.5,56.7,Sunny
-98101,Seattle,2026-07-17,79.8,50.9,Sunny
-98101,Seattle,2026-07-18,81.2,52.1,Sunny
-33101,Miami,2026-07-16,97.3,76.8,Sunny
-33101,Miami,2026-07-17,89.2,83.7,Sunny
-33101,Miami,2026-07-18,87.1,83.1,Sunny
-77001,Houston,2026-07-16,94.5,77.4,Sunny
-77001,Houston,2026-07-17,93.0,77.6,Patchy rain nearby
-77001,Houston,2026-07-18,95.8,78.5,Sunny
-85001,Phoenix,2026-07-16,107.8,85.1,Sunny
-85001,Phoenix,2026-07-17,97.8,80.8,Partly Cloudy
-85001,Phoenix,2026-07-18,100.5,87.1,Partly Cloudy
-19101,Philadelphia,2026-07-16,103.6,75.6,Sunny
-19101,Philadelphia,2026-07-17,91.8,73.6,Sunny
-19101,Philadelphia,2026-07-18,80.4,70.5,Light rain shower
-30301,Atlanta,2026-07-16,93.0,73.2,Sunny
-30301,Atlanta,2026-07-17,93.8,75.1,Sunny
-30301,Atlanta,2026-07-18,93.4,74.1,Sunny
-55401,Minneapolis,2026-07-16,96.4,69.8,Sunny
-55401,Minneapolis,2026-07-17,99.4,75.3,Sunny
-55401,Minneapolis,2026-07-18,92.2,71.2,Sunny
-80201,Denver,2026-07-16,94.1,66.7,Sunny
-80201,Denver,2026-07-17,95.2,69.3,Sunny
-80201,Denver,2026-07-18,98.2,68.7,Sunny
-94102,San Francisco,2026-07-16,74.1,54.7,Sunny
-94102,San Francisco,2026-07-17,62.7,55.0,Partly Cloudy
-94102,San Francisco,2026-07-18,63.8,55.8,Sunny
-78201,San Antonio,2026-07-16,91.8,74.1,Cloudy
-78201,San Antonio,2026-07-17,89.8,71.0,Partly Cloudy
-78201,San Antonio,2026-07-18,91.9,75.0,Partly Cloudy
-02101,Boston,2026-07-16,95.2,66.0,Sunny
-02101,Boston,2026-07-17,85.0,66.0,Sunny
-02101,Boston,2026-07-18,83.1,66.9,Partly Cloudy
-48201,Detroit,2026-07-16,97.3,66.4,Sunny
-48201,Detroit,2026-07-17,88.8,71.8,Sunny
-48201,Detroit,2026-07-18,94.3,72.2,Thundery outbreaks in nearby
-97201,Portland,2026-07-16,78.2,61.0,Sunny
-97201,Portland,2026-07-17,84.3,53.8,Sunny
-97201,Portland,2026-07-18,86.7,55.5,Sunny
-70112,New Orleans,2026-07-16,100.8,77.9,Sunny
-70112,New Orleans,2026-07-17,93.1,77.3,Sunny
-70112,New Orleans,2026-07-18,94.8,79.0,Partly Cloudy
-89101,Las Vegas,2026-07-16,111.6,85.5,Sunny
-89101,Las Vegas,2026-07-17,98.1,82.9,Sunny
-89101,Las Vegas,2026-07-18,100.8,81.4,Sunny
-84101,Salt Lake City,2026-07-16,101.7,70.1,Sunny
-84101,Salt Lake City,2026-07-17,94.6,65.2,Sunny
-84101,Salt Lake City,2026-07-18,93.7,65.7,Sunny
-46201,Indianapolis,2026-07-16,101.3,72.3,Sunny
-46201,Indianapolis,2026-07-17,86.5,74.2,Patchy rain nearby
-46201,Indianapolis,2026-07-18,85.6,71.0,Patchy rain nearby
-28201,Charlotte,2026-07-16,105.1,69.4,Sunny
-28201,Charlotte,2026-07-17,102.9,77.4,Sunny
-28201,Charlotte,2026-07-18,97.8,76.6,Sunny
-37201,Nashville,2026-07-16,92.3,73.2,Sunny
-37201,Nashville,2026-07-17,87.0,71.8,Patchy rain nearby
-37201,Nashville,2026-07-18,91.1,72.7,Partly Cloudy
-73101,Oklahoma City,2026-07-16,86.2,70.0,Sunny
-73101,Oklahoma City,2026-07-17,93.7,70.0,Sunny
-73101,Oklahoma City,2026-07-18,98.2,73.5,Sunny
-87101,Albuquerque,2026-07-16,84.4,68.4,Sunny
-87101,Albuquerque,2026-07-17,85.8,71.0,Sunny
-87101,Albuquerque,2026-07-18,90.2,68.1,Sunny
-50301,Des Moines,2026-07-16,95.4,70.2,Sunny
-50301,Des Moines,2026-07-17,91.1,70.7,Sunny
-50301,Des Moines,2026-07-18,91.2,71.6,Sunny
-66101,Kansas City,2026-07-16,93.7,73.0,Sunny
-66101,Kansas City,2026-07-17,90.0,70.1,Sunny
-66101,Kansas City,2026-07-18,92.1,73.4,Sunny
-68101,Omaha,2026-07-16,95.7,70.5,Sunny
-68101,Omaha,2026-07-17,98.7,69.7,Sunny
-68101,Omaha,2026-07-18,105.2,72.8,Sunny
-72201,Little Rock,2026-07-16,96.8,72.3,Sunny
-72201,Little Rock,2026-07-17,95.7,70.6,Sunny
-72201,Little Rock,2026-07-18,98.4,72.1,Sunny
-53201,Milwaukee,2026-07-16,83.7,69.3,Sunny
-53201,Milwaukee,2026-07-17,83.5,68.8,Sunny
-53201,Milwaukee,2026-07-18,87.3,69.9,Sunny
-61601,Peoria,2026-07-16,99.1,72.1,Sunny
-61601,Peoria,2026-07-17,86.0,73.1,Patchy rain nearby
-61601,Peoria,2026-07-18,88.2,70.4,Sunny
-64101,Kansas City,2026-07-16,93.4,73.4,Sunny
-64101,Kansas City,2026-07-17,90.0,70.1,Sunny
-64101,Kansas City,2026-07-18,92.1,73.7,Sunny
-23219,Richmond,2026-07-16,102.6,70.5,Sunny
-23219,Richmond,2026-07-17,100.0,75.8,Sunny
-23219,Richmond,2026-07-18,101.2,73.6,Sunny
-37501,Memphis,2026-07-16,95.4,74.1,Sunny
-37501,Memphis,2026-07-17,89.9,72.1,Sunny
-37501,Memphis,2026-07-18,89.0,72.5,Partly Cloudy
-40201,Louisville,2026-07-16,95.2,77.4,Sunny
-40201,Louisville,2026-07-17,89.9,74.7,Sunny
-40201,Louisville,2026-07-18,84.8,73.3,Mist
-45201,Cincinnati,2026-07-16,103.5,70.7,Sunny
-45201,Cincinnati,2026-07-17,87.6,71.3,Patchy rain nearby
-45201,Cincinnati,2026-07-18,83.1,72.2,Mist
-54601,La Crosse,2026-07-16,96.1,71.1,Sunny
-54601,La Crosse,2026-07-17,90.1,68.1,Sunny
-54601,La Crosse,2026-07-18,83.8,66.3,Sunny
-57101,Sioux Falls,2026-07-16,96.9,66.0,Sunny
-57101,Sioux Falls,2026-07-17,106.3,70.1,Sunny
-57101,Sioux Falls,2026-07-18,97.7,69.5,Sunny
-59101,Billings,2026-07-16,98.9,64.4,Sunny
-59101,Billings,2026-07-17,96.9,64.8,Sunny
-59101,Billings,2026-07-18,102.9,68.8,Sunny
-63101,Saint Louis,2026-07-16,94.3,74.7,Sunny
-63101,Saint Louis,2026-07-17,90.1,72.8,Patchy rain nearby
-63101,Saint Louis,2026-07-18,95.6,72.7,Sunny
-65101,Jefferson City,2026-07-16,93.6,71.4,Sunny
-65101,Jefferson City,2026-07-17,91.0,69.3,Partly Cloudy
-65101,Jefferson City,2026-07-18,93.5,69.3,Sunny
-83701,Boise,2026-07-16,107.8,72.5,Sunny
-83701,Boise,2026-07-17,102.7,68.0,Sunny
-83701,Boise,2026-07-18,101.2,68.7,Sunny
-92101,San Diego,2026-07-16,77.3,66.0,Sunny
-92101,San Diego,2026-07-17,76.3,70.9,Sunny
-92101,San Diego,2026-07-18,77.2,70.3,Sunny
-93401,San Luis Obispo,2026-07-16,94.6,59.0,Sunny
-93401,San Luis Obispo,2026-07-17,75.4,56.6,Sunny
-93401,San Luis Obispo,2026-07-18,76.7,55.8,Sunny
-95814,Sacramento,2026-07-16,99.1,61.9,Sunny
-95814,Sacramento,2026-07-17,96.2,57.5,Sunny
-95814,Sacramento,2026-07-18,98.0,58.3,Sunny
-96801,Honolulu,2026-07-16,80.2,75.8,Patchy rain nearby
-96801,Honolulu,2026-07-17,79.8,76.5,Patchy rain nearby
-96801,Honolulu,2026-07-18,80.2,76.1,Patchy rain nearby
-99501,Anchorage,2026-07-16,54.8,47.2,Partly Cloudy
-99501,Anchorage,2026-07-17,55.5,46.9,Patchy rain nearby
-99501,Anchorage,2026-07-18,58.4,48.8,Patchy rain nearby
-32801,Orlando,2026-07-16,96.6,75.2,Sunny
-32801,Orlando,2026-07-17,94.4,73.8,Partly Cloudy
-32801,Orlando,2026-07-18,94.8,75.0,Sunny
+90045,Los Angeles,2026-07-17,89.1,64.8,Sunny
+90045,Los Angeles,2026-07-18,78.1,70.1,Sunny
+90045,Los Angeles,2026-07-19,78.1,69.5,Sunny
+10001,New York,2026-07-17,97.9,67.3,Sunny
+10001,New York,2026-07-18,83.9,71.6,Sunny
+10001,New York,2026-07-19,83.8,72.5,Sunny
+60601,Chicago,2026-07-17,88.9,76.8,Sunny
+60601,Chicago,2026-07-18,90.9,74.5,Sunny
+60601,Chicago,2026-07-19,79.3,71.9,Sunny
+98101,Seattle,2026-07-17,79.8,54.5,Sunny
+98101,Seattle,2026-07-18,80.7,52.3,Sunny
+98101,Seattle,2026-07-19,84.7,52.9,Sunny
+33101,Miami,2026-07-17,96.1,76.5,Sunny
+33101,Miami,2026-07-18,87.5,82.8,Sunny
+33101,Miami,2026-07-19,88.0,83.3,Sunny
+77001,Houston,2026-07-17,98.4,79.3,Sunny
+77001,Houston,2026-07-18,96.2,78.4,Sunny
+77001,Houston,2026-07-19,97.7,77.0,Sunny
+85001,Phoenix,2026-07-17,93.6,75.4,Sunny
+85001,Phoenix,2026-07-18,102.4,86.8,Sunny
+85001,Phoenix,2026-07-19,103.1,86.0,Sunny
+19101,Philadelphia,2026-07-17,95.9,71.1,Sunny
+19101,Philadelphia,2026-07-18,76.7,71.8,Patchy rain nearby
+19101,Philadelphia,2026-07-19,83.2,70.9,Sunny
+30301,Atlanta,2026-07-17,96.3,73.8,Sunny
+30301,Atlanta,2026-07-18,94.4,75.2,Sunny
+30301,Atlanta,2026-07-19,96.8,75.2,Sunny
+55401,Minneapolis,2026-07-17,104.0,73.2,Sunny
+55401,Minneapolis,2026-07-18,91.9,74.5,Sunny
+55401,Minneapolis,2026-07-19,91.6,68.9,Sunny
+80201,Denver,2026-07-17,95.7,67.6,Sunny
+80201,Denver,2026-07-18,97.2,67.4,Sunny
+80201,Denver,2026-07-19,100.6,70.7,Sunny
+94102,San Francisco,2026-07-17,67.3,52.7,Sunny
+94102,San Francisco,2026-07-18,63.7,55.9,Sunny
+94102,San Francisco,2026-07-19,62.8,55.5,Partly Cloudy
+78201,San Antonio,2026-07-17,92.8,76.8,Sunny
+78201,San Antonio,2026-07-18,91.7,75.8,Partly Cloudy
+78201,San Antonio,2026-07-19,94.8,75.1,Sunny
+02101,Boston,2026-07-17,91.9,62.2,Sunny
+02101,Boston,2026-07-18,88.6,61.2,Sunny
+02101,Boston,2026-07-19,83.6,65.5,Sunny
+48201,Detroit,2026-07-17,94.3,63.0,Smoky haze
+48201,Detroit,2026-07-18,95.6,73.6,Partly Cloudy
+48201,Detroit,2026-07-19,81.2,65.8,Sunny
+97201,Portland,2026-07-17,84.3,54.9,Sunny
+97201,Portland,2026-07-18,85.8,55.5,Sunny
+97201,Portland,2026-07-19,88.2,55.8,Sunny
+70112,New Orleans,2026-07-17,102.6,77.2,Sunny
+70112,New Orleans,2026-07-18,95.7,79.0,Partly Cloudy
+70112,New Orleans,2026-07-19,95.6,77.5,Sunny
+89101,Las Vegas,2026-07-17,105.6,83.7,Sunny
+89101,Las Vegas,2026-07-18,101.7,80.6,Sunny
+89101,Las Vegas,2026-07-19,104.8,83.2,Sunny
+84101,Salt Lake City,2026-07-17,99.9,68.0,Sunny
+84101,Salt Lake City,2026-07-18,90.9,64.1,Sunny
+84101,Salt Lake City,2026-07-19,94.2,65.1,Sunny
+46201,Indianapolis,2026-07-17,95.4,73.7,Sunny
+46201,Indianapolis,2026-07-18,87.5,71.5,Mist
+46201,Indianapolis,2026-07-19,83.5,67.6,Sunny
+28201,Charlotte,2026-07-17,101.3,74.3,Sunny
+28201,Charlotte,2026-07-18,98.5,76.4,Sunny
+28201,Charlotte,2026-07-19,99.1,74.8,Sunny
+37201,Nashville,2026-07-17,95.7,74.8,Sunny
+37201,Nashville,2026-07-18,91.4,71.8,Patchy rain nearby
+37201,Nashville,2026-07-19,91.4,71.8,Sunny
+73101,Oklahoma City,2026-07-17,92.5,70.5,Sunny
+73101,Oklahoma City,2026-07-18,97.9,73.3,Sunny
+73101,Oklahoma City,2026-07-19,101.5,75.4,Sunny
+87101,Albuquerque,2026-07-17,89.4,69.0,Sunny
+87101,Albuquerque,2026-07-18,89.1,65.4,Patchy rain nearby
+87101,Albuquerque,2026-07-19,87.9,68.7,Sunny
+50301,Des Moines,2026-07-17,96.1,71.6,Sunny
+50301,Des Moines,2026-07-18,92.4,71.2,Sunny
+50301,Des Moines,2026-07-19,86.6,68.2,Sunny
+66101,Kansas City,2026-07-17,96.3,70.2,Sunny
+66101,Kansas City,2026-07-18,92.4,72.6,Sunny
+66101,Kansas City,2026-07-19,96.0,74.2,Sunny
+68101,Omaha,2026-07-17,94.8,71.1,Sunny
+68101,Omaha,2026-07-18,101.5,72.0,Sunny
+68101,Omaha,2026-07-19,97.4,71.4,Sunny
+72201,Little Rock,2026-07-17,97.9,72.5,Sunny
+72201,Little Rock,2026-07-18,100.1,75.4,Sunny
+72201,Little Rock,2026-07-19,101.2,76.4,Partly Cloudy
+53201,Milwaukee,2026-07-17,93.9,70.0,Sunny
+53201,Milwaukee,2026-07-18,85.9,70.3,Sunny
+53201,Milwaukee,2026-07-19,75.5,66.5,Sunny
+61601,Peoria,2026-07-17,93.4,73.6,Sunny
+61601,Peoria,2026-07-18,88.7,70.1,Sunny
+61601,Peoria,2026-07-19,82.7,67.6,Sunny
+64101,Kansas City,2026-07-17,95.4,70.3,Sunny
+64101,Kansas City,2026-07-18,92.4,72.8,Sunny
+64101,Kansas City,2026-07-19,96.1,74.3,Sunny
+23219,Richmond,2026-07-17,102.4,73.6,Sunny
+23219,Richmond,2026-07-18,101.1,73.2,Sunny
+23219,Richmond,2026-07-19,92.9,72.1,Patchy rain nearby
+37501,Memphis,2026-07-17,96.8,73.8,Sunny
+37501,Memphis,2026-07-18,93.0,74.2,Sunny
+37501,Memphis,2026-07-19,94.2,76.6,Sunny
+40201,Louisville,2026-07-17,93.7,76.6,Sunny
+40201,Louisville,2026-07-18,90.0,72.7,Patchy rain nearby
+40201,Louisville,2026-07-19,87.3,72.8,Sunny
+45201,Cincinnati,2026-07-17,97.9,73.6,Sunny
+45201,Cincinnati,2026-07-18,87.8,72.1,Patchy rain nearby
+45201,Cincinnati,2026-07-19,85.1,68.6,Sunny
+54601,La Crosse,2026-07-17,93.4,70.3,Sunny
+54601,La Crosse,2026-07-18,86.1,67.7,Sunny
+54601,La Crosse,2026-07-19,83.0,59.9,Sunny
+57101,Sioux Falls,2026-07-17,104.0,69.8,Sunny
+57101,Sioux Falls,2026-07-18,97.8,70.7,Sunny
+57101,Sioux Falls,2026-07-19,101.2,68.2,Sunny
+59101,Billings,2026-07-17,100.2,64.4,Sunny
+59101,Billings,2026-07-18,100.6,70.0,Sunny
+59101,Billings,2026-07-19,99.6,71.8,Sunny
+63101,Saint Louis,2026-07-17,96.3,73.8,Sunny
+63101,Saint Louis,2026-07-18,95.7,73.6,Sunny
+63101,Saint Louis,2026-07-19,95.9,73.1,Sunny
+65101,Jefferson City,2026-07-17,94.8,69.3,Sunny
+65101,Jefferson City,2026-07-18,92.8,69.7,Sunny
+65101,Jefferson City,2026-07-19,95.4,71.0,Sunny
+83701,Boise,2026-07-17,100.0,69.3,Sunny
+83701,Boise,2026-07-18,101.2,68.4,Sunny
+83701,Boise,2026-07-19,101.4,67.3,Sunny
+92101,San Diego,2026-07-17,73.8,66.0,Sunny
+92101,San Diego,2026-07-18,76.8,69.6,Sunny
+92101,San Diego,2026-07-19,77.3,68.9,Sunny
+93401,San Luis Obispo,2026-07-17,86.4,54.0,Sunny
+93401,San Luis Obispo,2026-07-18,78.0,54.4,Sunny
+93401,San Luis Obispo,2026-07-19,77.5,56.7,Sunny
+95814,Sacramento,2026-07-17,94.3,58.6,Sunny
+95814,Sacramento,2026-07-18,96.7,55.1,Sunny
+95814,Sacramento,2026-07-19,96.2,58.5,Sunny
+96801,Honolulu,2026-07-17,80.1,75.9,Patchy rain nearby
+96801,Honolulu,2026-07-18,80.5,76.1,Patchy rain nearby
+96801,Honolulu,2026-07-19,79.3,75.0,Sunny
+99501,Anchorage,2026-07-17,54.7,46.1,Patchy rain nearby
+99501,Anchorage,2026-07-18,55.8,49.7,Patchy rain nearby
+99501,Anchorage,2026-07-19,56.9,50.0,Overcast
+32801,Orlando,2026-07-17,97.9,74.6,Sunny
+32801,Orlando,2026-07-18,87.7,73.3,Sunny
+32801,Orlando,2026-07-19,86.5,75.3,Sunny
